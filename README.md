@@ -1,9 +1,9 @@
 ### About me👋
 
-- 💼 I am interested in DevOps, Automation and CI/CD
+- 💼 I am interested in DevOps, Security, Automation and CI/CD
 - 🔭 I’m currently working on mastering GCP and pipelines using CI/CD 
 - 🌱 I’m currently learning/improving my skills at Terraform, Cloud topics
-- 💬 Ask me about Cloud Architecture
+- 💬 Ask me about Cloud Architecture and Security
 - 👷 Working for REWE digital
 - 😄 Pronouns: he/him/his
 
